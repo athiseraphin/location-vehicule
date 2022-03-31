@@ -1,1 +1,9 @@
-/Users/seraphinathis/NetBeansProjects/location/src/main/java/com/location/vehicule/LocationApplication.java
+/Users/seraphinathis/Documents/GitHub/location-vehicule/src/main/java/com/location/vehicule/controller/ClientController.java
+/Users/seraphinathis/Documents/GitHub/location-vehicule/src/main/java/com/location/vehicule/model/Vehicule.java
+/Users/seraphinathis/Documents/GitHub/location-vehicule/src/main/java/com/location/vehicule/LocationApplication.java
+/Users/seraphinathis/Documents/GitHub/location-vehicule/src/main/java/com/location/vehicule/service/ClientService.java
+/Users/seraphinathis/Documents/GitHub/location-vehicule/src/main/java/com/location/vehicule/service/VehiculeService.java
+/Users/seraphinathis/Documents/GitHub/location-vehicule/src/main/java/com/location/vehicule/controller/VehiculeController.java
+/Users/seraphinathis/Documents/GitHub/location-vehicule/src/main/java/com/location/vehicule/repository/VehiculeRepository.java
+/Users/seraphinathis/Documents/GitHub/location-vehicule/src/main/java/com/location/vehicule/repository/ClientRepository.java
+/Users/seraphinathis/Documents/GitHub/location-vehicule/src/main/java/com/location/vehicule/model/Client.java

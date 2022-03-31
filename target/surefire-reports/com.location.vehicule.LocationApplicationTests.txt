@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.location.vehicule.LocationApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.074 s - in com.location.vehicule.LocationApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.626 s - in com.location.vehicule.LocationApplicationTests

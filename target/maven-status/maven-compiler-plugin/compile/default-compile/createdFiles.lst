@@ -1,1 +1,11 @@
+com/location/vehicule/repository/ClientRepository.class
+com/location/vehicule/controller/ClientController.class
+com/location/vehicule/controller/VehiculeController.class
+com/location/vehicule/service/VehiculeService.class
+com/location/vehicule/service/ClientService.class
+com/location/vehicule/repository/VehiculeRepository.class
+com/location/vehicule/model/Client$ClientBuilder.class
 com/location/vehicule/LocationApplication.class
+com/location/vehicule/model/Vehicule$VehiculeBuilder.class
+com/location/vehicule/model/Client.class
+com/location/vehicule/model/Vehicule.class

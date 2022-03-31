@@ -45,4 +45,5 @@ public class Client implements Serializable {
     private String nifCinNin;
     private String numeroPermis;
     
+    
 }
